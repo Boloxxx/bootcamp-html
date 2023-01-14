@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+</head>
+<body>
+    <!--
+        Este es mi primer comentario de dos lineas
+        Aprendiendo a documentar mi codigo con OpenBootcamp
+    -->
+    <div>
+        <h4>Mi top 3 videos de youtube!</h4>
+        <ul>
+            <a href="https://www.youtube.com/watch?v=awmtKCzULIc&t=2919s"><li>EL REGALO DE ALOFOKE PARA DJ TOPO QUE LE CAMBIARA LA VIDA (EL DESPELUÑE)</li></a>
+            <a href="https://www.youtube.com/watch?v=c_M3EHyG60k"><li>Hombre ACTÚA Como MUJERES En Una Cita #2 Ft. The Pepper</li></a>
+            <a href="https://www.youtube.com/watch?v=wdztZhAlbQ8"><li>Hicimos El Pedazo De Pizza Más Grande Del Mundo!!</li></a>
+        </ul>
+
+    </div>
+    
+</body>
+</html>
