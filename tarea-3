@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 02/2 - Tablas en HTML</title>
+</head>
+<body>
+    <h3>Mis 3 Libros Favoritos</h3>
+    <table>
+        <tr>
+            <th>Titulo</th>
+            <th>Autor</th>
+            <th>Año de publicacion</th>
+            <th>Enlace a Amazon</th>
+        </tr>
+        <tr>
+            <td>El Gran Secreto del Monsacro</td>
+            <td>Margarita Alvarez Alvarez </td>
+            <td>Marzo 12, 2015</td>
+            <td><a href="https://www.amazon.com/Secreto-Monsacro-Novela-hist%C3%B3rica-Spanish-ebook/dp/B00U4BDT9E/ref=sr_1_1?adgrpid=82205149355&gclid=CjwKCAiAwomeBhBWEiwAM43YIIYhG2MDReUdEAnlqF2boGJi_qWpaNIubx7_YLr5w_cnuRRXW8GmMxoCP5IQAvD_BwE&hvadid=585362545131&hvdev=c&hvlocphy=9069760&hvnetw=g&hvqmt=b&hvrand=14088857689669933924&hvtargid=kwd-3158521396&hydadcr=21180_13332256&keywords=kindle+ebooks&qid=1673729917&refinements=p_n_feature_nine_browse-bin%3A3291439011&rnid=3291435011&s=digital-text&sr=1-1">Comprar en amazon</td></a>
+        </tr>
+        <tr>
+            <td>El Gran Secreto del Monsacro</td>
+            <td>Margarita Alvarez Alvarez </td>
+            <td>Marzo 12, 2015</td>
+            <td><a href="https://www.amazon.com/Secreto-Monsacro-Novela-hist%C3%B3rica-Spanish-ebook/dp/B00U4BDT9E/ref=sr_1_1?adgrpid=82205149355&gclid=CjwKCAiAwomeBhBWEiwAM43YIIYhG2MDReUdEAnlqF2boGJi_qWpaNIubx7_YLr5w_cnuRRXW8GmMxoCP5IQAvD_BwE&hvadid=585362545131&hvdev=c&hvlocphy=9069760&hvnetw=g&hvqmt=b&hvrand=14088857689669933924&hvtargid=kwd-3158521396&hydadcr=21180_13332256&keywords=kindle+ebooks&qid=1673729917&refinements=p_n_feature_nine_browse-bin%3A3291439011&rnid=3291435011&s=digital-text&sr=1-1">Comprar en amazon</td></a>
+        </tr>
+        <tr>
+            <td>El hombre más rico de Babilonia</td>
+            <td>George S Clason</td>
+            <td>Mayo 16, 2022</td>
+            <td><a href="https://www.amazon.com/gp/product/B0B1H27MLY?pf_rd_m=ATVPDKIKX0DER&storeType=ebooks&pageType=STOREFRONT&pf_rd_p=&pf_rd_r=0SG8APYD4W43NYYG1SXA&pf_rd_s=merchandised-slot-7&pf_rd_t=&ref_=dbs_f_ebk_rwt_alst_ms7_kmw_0&pf_rd_i=">Comprar en amazon</td></a>
+        </tr>
+        
+
+
+    </table>
+</body>
+</html>
