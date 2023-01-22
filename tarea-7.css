@@ -1,0 +1,14 @@
+.btn-modern {
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-modern:hover {
+    transform: translatey(-5px);
+    background-color: darkorange;
+    border-bottom: 2px solid rgb(124, 19, 19);
+    color: rgb(34, 102, 111);
+    transition: all 0.4s;
+}
